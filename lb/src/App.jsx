@@ -120,8 +120,7 @@ function Scene() {
       font="/fonts/AlegreyaSansSC-Medium.ttf"
       castShadow receiveShadow
       text= 
-'Tell about yourself 
-    like never before'
+'Text 1'
        />
       </e.mesh>
 
@@ -133,8 +132,7 @@ function Scene() {
       font="/fonts/AlegreyaSansSC-Medium.ttf"
       castShadow receiveShadow
       text= 
-'Showcase a unique 
-              3d world'
+'Text 2'
        />
       </e.mesh>
 
@@ -146,8 +144,7 @@ function Scene() {
       font="/fonts/AlegreyaSansSC-Medium.ttf"
       castShadow receiveShadow
       text= 
-'Which will tell about
- you like never before'
+'Text 3'
        />
       </e.mesh>
 
@@ -159,8 +156,7 @@ function Scene() {
       font="/fonts/AlegreyaSansSC-Medium.ttf"
       castShadow receiveShadow
       text= 
-'Directly in the 
-  web browser'
+'Text 4'
        />
       </e.mesh>
 
@@ -172,7 +168,7 @@ function Scene() {
       font="/fonts/AlegreyaSansSC-Medium.ttf"
       castShadow receiveShadow
       text= 
-'On any device'
+'Text 5'
        />
       </e.mesh>
 
